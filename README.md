@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Udaya Bhanu Maddineni</h1>
-<h3 align="center">A passionate Full Stack developer from the U.S</h3>
+<h3 align="center">A passionate Full Stack developer from the U.S 
+ 
+</h3>
+
+<h4 align="center"> <img src="https://github.com/Udayabhanu999/Udayabhanu999/blob/main/blob/assets/giphy.gif" alt="Animation" height="300" width="400" /></h4>
 
 
-<div style="align:center">
-  <img src="https://github.com/Udayabhanu999/Udayabhanu999/blob/main/blob/assets/giphy.gif" alt="Animation" />
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayabhanu999&label=Profile%20views&color=0e75b6&style=flat" alt="udayabhanu999" /> </p>
 
 - 📫 How to reach me **ubm981@gmail.com**
