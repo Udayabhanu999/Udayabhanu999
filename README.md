@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Udaya Bhanu Maddineni</h1>
 <h3 align="center">A passionate Full Stack developer from the U.S</h3>
 
+![Banner Image](https://github.com/Udayabhanu999/Udayabhanu999/blob/main/blob/assets/banner.jpg)
 
 
 ![My GIF](https://github.com/yourusername/yourrepository/blob/main/yourgif.gif)
