@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Udaya Bhanu Maddineni</h1>
+<h1 align="center">Hi 👋, I'm Udaya Bhanu</h1>
 <h3 align="center">A passionate Full Stack developer from the U.S 😊
  
 </h3>
