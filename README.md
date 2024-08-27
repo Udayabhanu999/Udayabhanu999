@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayabhanu999&label=Profile%20views&color=0e75b6&style=flat" alt="udayabhanu999" /> </p>
 
-- 📫 How to reach me **ubm981@gmail.com**
+- 📫 How to reach me **mudayabhanu981@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
